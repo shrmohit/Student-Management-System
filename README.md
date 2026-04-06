@@ -70,7 +70,7 @@ Open browser: https://localhost:7055/swagger/index.html
 
 ## 📌 API Endpoints
 
-![Swager UI](swagge-ui.png)
+![Swagger UI](swagger-ui.png)
 
 | Method | Endpoint                 | Description      |
 | ------ | ------------------------ | ---------------- |
