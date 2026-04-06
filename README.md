@@ -55,7 +55,7 @@ StudentManagementAPI/
 
 ### 1️⃣ Clone the Repository
 
-https://github.com/your-username/student-management-api.git
+https://github.com/shrmohit/Student-Management-System.git
 
 ### 2️⃣ Configure Database
 
